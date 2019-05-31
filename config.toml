@@ -11,6 +11,12 @@ googleAnalytics = ""
 # Copyright
 copyright = "&copy;2018 ECiDA Core Team"
 
+[languages]
+  [languages.en]
+    weight = 1
+  [languages.nl]
+    weight = 2
+
 [params]
 
   # Metadata for search engines and social sharing
@@ -83,6 +89,18 @@ copyright = "&copy;2018 ECiDA Core Team"
         url = "#"
 
   # Links List #3
+  [[params.links]]
+    [params.links.list3]
+      heading = "Languagees"
+
+      [[params.links.list3.link]]
+        text = "Dutch"
+        url = "/nl"
+
+      [[params.links.list3.link]]
+        text = "English"
+        url = "/"
+
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
