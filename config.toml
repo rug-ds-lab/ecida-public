@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "//ecida.nl"
+baseURL = "//ecida.netlify.com"
 languageCode = "en-US"
 title = "ECiDA - Evolutionary Changes in Data Analysis"
 theme = "hugo-split-theme"
