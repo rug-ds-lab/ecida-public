@@ -53,15 +53,15 @@ copyright = "&copy;2018 ECiDA Core Team"
 
       [[params.links.list1.link]]
         text = "Code"
-        url = "#"
+        url = "https://gitlab.com/vitens/ecida"
 
       [[params.links.list1.link]]
         text = "Slack"
-        url = "#"
+        url = "https://ecida.slack.com"
 
       [[params.links.list1.link]]
         text = "Email"
-        url = "#"
+        url = "f.j.blaauw+ecida@rug.nl"
 
   # Links List #2
   [[params.links]]
@@ -70,23 +70,23 @@ copyright = "&copy;2018 ECiDA Core Team"
 
       [[params.links.list2.link]]
         text = "Vitens"
-        url = "#"
+        url = "https://vitens.nl"
 
       [[params.links.list2.link]]
         text = "Anchormen"
-        url = "#"
+        url = "https://anchormen.nl"
 
       [[params.links.list2.link]]
         text = "CWI"
-        url = "#"
+        url = "https://cwi.nl"
 
       [[params.links.list2.link]]
         text = "TNO"
-        url = "#"
+        url = "https://tno.nl"
 
       [[params.links.list2.link]]
         text = "University of Groningen"
-        url = "#"
+        url = "http://www.cs.rug.nl/ds"
 
   # Links List #3
   [[params.links]]
