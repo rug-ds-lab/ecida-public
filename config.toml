@@ -61,7 +61,7 @@ copyright = "&copy;2018 ECiDA Core Team"
 
       [[params.links.list1.link]]
         text = "Email"
-        url = "f.j.blaauw+ecida@rug.nl"
+        url = "mailto:f.j.blaauw+ecida@rug.nl"
 
   # Links List #2
   [[params.links]]
