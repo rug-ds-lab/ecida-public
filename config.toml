@@ -9,7 +9,7 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2018 ECiDA Core Team"
+copyright = "&copy;2020 ECiDA Core Team"
 
 [languages]
   [languages.en]
