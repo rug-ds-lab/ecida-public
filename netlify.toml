@@ -34,3 +34,9 @@ HUGO_ENABLEGITINFO = "true"
   to = "https://youtu.be/mRCsRsWRAoo"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/tech-webinar"
+  to = "https://youtu.be/EkH-QSkvRxM"
+  status = 301
+  force = true
